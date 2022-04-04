@@ -53,6 +53,8 @@ Feel free to contribute by creating a pull request or tag me on discord @DEM0N94
 
 ### vut cardiacs yingyang bottom-left: 1330,599
 
+(yingyang was taken over)
+
 ![](vut-cardiacs-yingyang-bottom-left-1330-599.png)
 
 ### hyunface bottom-left: 1291,614
@@ -72,3 +74,8 @@ Feel free to contribute by creating a pull request or tag me on discord @DEM0N94
 ### ot12-just-design we are not building this (we like the ducks there!): bottom-left: 1670,1585
 
 ![](ot12-just-design-1670-1585.png)
+
+
+### Map
+
+![](Fort_LOONA_Main_island_2%20(1).png)
