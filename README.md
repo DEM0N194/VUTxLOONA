@@ -2,7 +2,7 @@
 
 **THIS IS NOT A BOT THIS IS JUST A HELPER SCRIPT TO ASSIST YOU TO PLACE BLOCKS**
 
-Pixel template for VUT and r/LOONA on r/place
+Pixel template for VUT and LOONA on r/place
 - shows which color should be placed in which position
 
 Instructions:
@@ -37,7 +37,6 @@ Places:
 
 Feel free to contribute by creating a pull request or tag me on discord @DEM0N94#0797
 
-r/LOONA: https://discord.gg/8BfPEwrq
 
 ![how it works](https://cdn.discordapp.com/attachments/959273604850278450/960462955072335892/unknown.png)
 
