@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VUTxLOONA
 // @namespace    https://github.com/DEM0N194/VUTxLOONA
-// @version      1.2.1
+// @version      1.2.2
 // @description  r/place template script for VUT.CZ and r/LOONA
 // @author       u/DEM0N194
 // @match        https://www.reddit.com/r/place/*
@@ -25,9 +25,9 @@ const images = [
   [302, 780, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/LOONAxVUT.CZ.png"],
   [1362, 570, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/sapari_cardiacs.png"],
   [352, 1600, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/TrojanChuu2.png"],
-  [1902,994, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/yinyang_noborder2.png"],
+  [1902,994, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/yinyang_noborder3.png"],
   [1670, 1585, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/ot12.png"],
-  [1168, 223, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/fitvut.png"],
+  [1901, 1022, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/fitvut.png"],
   [511, 529, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/miniloona-black-bg-511-529icon.png"],
   [1633, 892, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/rloona-at-1633-892.png"],
 ]
