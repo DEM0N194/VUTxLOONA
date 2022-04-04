@@ -25,7 +25,7 @@ const images = [
   [302, 780, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/LOONAxVUT.CZ.png"],
   [1362, 570, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/sapari_cardiacs.png"],
   [352, 1600, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/TrojanChuu2.png"],
-  [1394, 600, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/yinyang_noborder2.png"],
+  [1902,994, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/yinyang_noborder2.png"],
   [1670, 1585, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/ot12.png"],
   [1168, 223, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/fitvut.png"],
   [511, 529, 1, "https://raw.githubusercontent.com/DEM0N194/VUTxLOONA/main/miniloona-black-bg-511-529icon.png"],

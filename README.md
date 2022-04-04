@@ -51,9 +51,7 @@ Feel free to contribute by creating a pull request or tag me on discord @DEM0N94
 
 ![](trojan-chuu-bottom-left-352-1635.png)
 
-### vut cardiacs yingyang bottom-left: 1330,599
-
-(yingyang was taken over)
+### vut cardiacs yingyang bottom-left: 1902,994
 
 ![](vut-cardiacs-yingyang-bottom-left-1330-599.png)
 
